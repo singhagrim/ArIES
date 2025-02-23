@@ -1,8 +1,9 @@
 # The Frost Of Endless Tommorow
 
-`IInteract` - interacting with door, keys, lever, buttons and other interactable objects. 
-`ILightSource` - Used to run "`FlickerLight()`" (flickering effect) and "`DestroyBulb()`" (On encounter with ghost the first time, triggered.)
-`IPlayer` - Used to trigger functions inside `PlayerCharacter` script like `Hallucination()` function, which enables `PostProcess()` component. 
+- `IInteract` - interacting with door, keys, lever, buttons and other interactable objects. 
+- `ILightSource` - Used to run "`FlickerLight()`" (flickering effect) and "`DestroyBulb()`" (On encounter with ghost the first time, triggered.)
+- `IPlayer` - Used to trigger functions inside `PlayerCharacter` script like 
+- `Hallucination()` function, which enables `PostProcess()` component. 
 
 ## Event Manager System
 `EventManagment` GameObject+Script is used to trigger/manage events
