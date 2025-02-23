@@ -8,7 +8,9 @@ How far will you go to escape a tomorrow that never comes?
 Will you break the cycle, or will you succumb to the frost?
 
 ### Inspiration
-The story of this game was inspired with themes of an psychological-thriller novel, that i was currently working on. 
+The story of this game was inspired with themes of an psychological-thriller novel, that i have been writting in my mean-time.
+Thrillers and Horror media has always been so captivating to me.
+
 ## 
 This project was built with a focus on **modular systems** and **dynamic event management** to create an immersive and replayable experience. With easy to **expand systems**.
 
