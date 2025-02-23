@@ -4,7 +4,7 @@
 - `ILightSource` - Used to run "`FlickerLight()`" (flickering effect) and "`DestroyBulb()`" (On encounter with ghost the first time, triggered.)
 - `IPlayer` - Used to trigger functions inside `PlayerCharacter` script like `Hallucination()` function, which enables `PostProcess()` component. 
 
-## User Interface System
+# User Interface System
 **Functions List**
 - `UILoadChapter(Int LevelIndex, Int Duration)` - This function is responsible for showing opening text of every new chapter
 - `UIMessageDisplay(Text Text)` - responsible for showing dialogues and informative texts (ex-picked up Kitch key, You need ABC to open this door.)
